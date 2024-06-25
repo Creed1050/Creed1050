@@ -30,8 +30,8 @@ My journey in the USAF has led me to develop a passion for cybersecurity, and I 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-<a href="https://cpe.isc2.org/digitalcert"><img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-00BFFF?&style=for-the-badge&logo=ISC2&logoColor=white" /></a>
+<a href= "https://drive.google.com/file/d/1zG_GIAIICZO1HfzcYr5cvq3wZrXDqaKr/view?usp=sharing"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+<a href="https://drive.google.com/file/d/1CgdofO2s34nImqLr-wRyyXdi1GcU1q9A/view?usp=sharing"><img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-00BFFF?&style=for-the-badge&logo=ISC2&logoColor=white" /></a>
 
 </div>
 
