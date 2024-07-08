@@ -20,7 +20,7 @@ My journey in the USAF has led me to develop a passion for cybersecurity, and I 
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### SIEM
@@ -31,7 +31,9 @@ My journey in the USAF has led me to develop a passion for cybersecurity, and I 
 ## Certifications
 <div>
 <a href="https://drive.google.com/file/d/1zG_GIAIICZO1HfzcYr5cvq3wZrXDqaKr/view?usp=sharing"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-<a href="https://drive.google.com/file/d/1CgdofO2s34nImqLr-wRyyXdi1GcU1q9A/view?usp=sharing"><img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-00BFFF?&style=for-the-badge&logo=ISC2&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1CgdofO2s34nImqLr-wRyyXdi1GcU1q9A/view?usp=sharing"><img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-00BFFF?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<a href="https://drive.google.com/file/d/1pz0d1No5bZQeMQJwosbuNtEmttD7zNcT/view?usp=sharing"><img src="https://img.shields.io/badge/Azure%20Fundamentals%20(AZ--900)-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" /> 
+</a>
 
 </div>
 
