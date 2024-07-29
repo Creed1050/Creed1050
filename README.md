@@ -39,7 +39,7 @@ My journey in the USAF has led me to develop a passion for cybersecurity, and I 
 
 ## Projects 
 <div> 
-<a href="https://github.com/Creed1050/Networking-Labs.git"><img src="https://img.shields.io/badge/-Packet%20Tracer-000000?&style=for-the-badge&logo=Cisco&logoColor=white" alt="Packet Tracer" /> 
+<a href=https://github.com/Creed1050/Networking-Labs/tree/main><img src="https://img.shields.io/badge/-Packet%20Tracer-000000?&style=for-the-badge&logo=Cisco&logoColor=white" alt="Packet Tracer" /> 
 </div>
 
 
